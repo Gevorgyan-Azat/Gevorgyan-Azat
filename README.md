@@ -1,6 +1,12 @@
 ### Привет, я Азат Геворгян
 QA Automation Engineer (Java)
 
+Ознакомиться с проектами можно по нижепредставленным ссылкам:
+
+- <a href="https://github.com/Gevorgyan-Azat/aft-6">Тест интернет магазина ДНС</a>
+- <a href="https://github.com/Gevorgyan-Azat/aft-5">Тест ипотечного калькулятора Сбербанка</a>
+- <a href="https://github.com/Gevorgyan-Azat/AFT-2">Тест функционала сайта Росгосстраха</a>
+
 <!--
 **Gevorgyan-Azat/Gevorgyan-Azat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
