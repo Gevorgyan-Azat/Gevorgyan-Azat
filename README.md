@@ -1,7 +1,7 @@
 ### Привет, я Азат Геворгян
 QA Automation Engineer (Java)
 
-<!-- Ознакомиться с резюме можно <a href="">ТУТ</a> -->
+Ознакомиться с резюме можно <a href="https://drive.google.com/file/d/1O-3795RHZSjPqI9j_mEZTDWqV_NlmMtx/view?usp=share_link">ТУТ</a>
 
 Ознакомиться с проектами можно по нижепредставленным ссылкам:
 
