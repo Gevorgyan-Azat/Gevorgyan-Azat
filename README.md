@@ -9,8 +9,8 @@ QA Automation Engineer (Java)
 - <a href="https://github.com/Gevorgyan-Azat/aft-5">Тест ипотечного калькулятора Сбербанка</a>
 - <a href="https://github.com/Gevorgyan-Azat/AFT-2">Тест функционала сайта Росгосстраха</a>
 
-Связь:
-<a href="https://t.me/a_gevorgyan">Telegram</a>
+Связь: <br />
+<a href="https://t.me/a_gevorgyan">Telegram</a> <br />
 Email: hz2020@yandex.ru
 
 <!--
